@@ -50,3 +50,5 @@ function displayPassword(length_pass) {
 
 const passwrdLength = 12;
 displayPassword(passwrdLength);
+
+console.log(`Neka promena`)
